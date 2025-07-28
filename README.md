@@ -27,10 +27,11 @@ A responsive web application that allows users to discover and listen to music f
 
 2. Install XAMPP
    Download and install XAMPP Latest version from [XAMPP](https://www.apachefriends.org/download.html).
-3. Setup it.
-4. Now Clone the repository
-5. Now open File Manager goto: `C:\xampp\htdocs\` and paste it there 
-6. Open Chrome and paste this URL `localhost/SOUND/user/Pages/home-page.php`
+3. Set it.
+4. Now clone the repository
+5. Now open File Manager, goto: `C:\xampp\htdocs\` and paste it there
+6. Open XAMPP and start Apache & MySQL
+7. Open Chrome and paste this URL `localhost/project-folder-name/user/Pages/home-page.php`
 
 ## 📬 Contact
 
