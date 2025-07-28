@@ -132,7 +132,7 @@
 
     button.navbar-toggler {
       position: absolute;
-      right: 150px ;
+      right: 160px ;
       top: 20px;
     }
 
@@ -210,7 +210,7 @@
         top: 19px;
       }
       #loginbtn1{
-            right: 220px !important;
+            right: 250px !important;
       }
       
     }
@@ -428,7 +428,7 @@
 }
 
 ul.navbar-nav{
-    margin-left: 8vw;
+    margin-left: 4vw;
 }
 
 
