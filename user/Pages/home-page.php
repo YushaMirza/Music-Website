@@ -67,8 +67,12 @@ $album_rev_results = mysqli_query($con, $sql_rev_albums);
       overflow-x: hidden;
     }
 
-    /* Enhanced Hero Section */
     .hero {
+      height: 100vh;
+      display: flex;
+      align-items: center;     
+      justify-content: center; 
+      flex-direction: column;
       padding: 80px 0 100px;
       text-align: center;
       position: relative;
